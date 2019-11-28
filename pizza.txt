@@ -1,0 +1,3 @@
+open dominos app
+check for pizza
+order pizza
